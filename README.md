@@ -5,12 +5,6 @@ C++ Tone generator using [Audiere](http://audiere.sourceforge.net/) API (windows
 
 <br>
 
-> **Disclaimer :**
-
-> If your computer implodes and sparks the armageddon, aliens eat your babysitter or you and your possesions are otherwise in any way incapacitated/damaged/hurt/etc, I can in no way be held responsible, since this code is provided as-is and it is your choice to use or ignore it.
-
-<br>
-
 ### TODO :
 - [ ] *Update [wxWidgets](http://wxwidgets.org/) version and use newer features*
 - [ ] *Use [JUCE](http://www.juce.com/) instead, for portability*
@@ -25,3 +19,8 @@ C++ Tone generator using [Audiere](http://audiere.sourceforge.net/) API (windows
 - Gratipay [![alt text](https://img.shields.io/gratipay/AskeFC.svg "Weekly Gratipay donation")](https://gratipay.com/AskeFC)
 - Flattr [![alt text](https://api.flattr.com/button/flattr-badge-large.png "Monthly Flattr donation")](https://flattr.com/profile/Mandrake)
 
+<br>
+
+> **Disclaimer :**
+
+> If your computer implodes and sparks the armageddon, aliens eat your babysitter or you and your possesions are otherwise in any way incapacitated/damaged/hurt/etc, I can in no way be held responsible, since this code is provided as-is and it is your choice to use or ignore it.
