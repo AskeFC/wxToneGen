@@ -1,4 +1,4 @@
-** Disclaimer **
+> **Disclaimer**
 > If your computer implodes and sparks the armageddon, aliens eat your babysitter or you and your possesions are otherwise in any way incapacitated/damaged/hurt/etc, I can in no way be held responsible, since this code is provided as-is and it is your choice to use or ignore it.
 
 # wxToneGen
