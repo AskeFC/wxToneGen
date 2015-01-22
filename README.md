@@ -10,11 +10,11 @@ C++ Tone generator using [Audiere](http://audiere.sourceforge.net/) API (windows
 <br>
 
 ## TODO :
-- [] *Update wxWidgets version and use newer features*
-- [] *Use [JUCE](http://www.juce.com/) instead, for portability*
-- [] *Improve code*
-- [] *Clean up code*
-- [] *divide into folder structure*
+- [ ] *Update wxWidgets version and use newer features*
+- [ ] *Use [JUCE](http://www.juce.com/) instead, for portability*
+- [ ] *Improve code*
+- [ ] *Clean up code*
+- [ ] *divide into folder structure*
 
 <br>
 
