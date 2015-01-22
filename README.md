@@ -9,8 +9,12 @@ C++ Tone generator using [Audiere](http://audiere.sourceforge.net/) API (windows
 *- The great IDE [CodeBlocks](http://www.codeblocks.org/) was used for this project.*
 
 
-### TODO :
+## TODO :
 - *Update wxWidgets version and use newer features*
 - *Use [JUCE](http://www.juce.com/) instead, for portability*
 - *Improve code*
 - *Clean up code*
+
+
+### Help me :
+* [PayPal ![alt text](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG_global.gif "Onetime PayPal donation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MTUK6NZQ6URX8)
