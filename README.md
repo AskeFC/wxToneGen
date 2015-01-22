@@ -9,7 +9,7 @@ C++ Tone generator using [Audiere](http://audiere.sourceforge.net/) API (windows
 
 <br>
 
-## TODO :
+### TODO :
 - [ ] *Update wxWidgets version and use newer features*
 - [ ] *Use [JUCE](http://www.juce.com/) instead, for portability*
 - [ ] *Improve code*
