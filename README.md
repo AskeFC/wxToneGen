@@ -16,5 +16,6 @@ C++ Tone generator using [Audiere](http://audiere.sourceforge.net/) API (windows
 - *Clean up code*
 
 
-### Help me :
+
+#### Help me :
 - PayPal [![alt text](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif "Onetime PayPal donation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MTUK6NZQ6URX8)
