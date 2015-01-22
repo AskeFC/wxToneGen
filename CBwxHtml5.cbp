@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CBwxHtml5" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option extended_obj_names="1" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin\Release\CBwxHtml5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option projectLinkerOptionsRelation="2" />
+				<Compiler>
+					<Add option="-fexpensive-optimizations" />
+					<Add option="-Os" />
+					<Add option="-O3" />
+					<Add option="-O2" />
+					<Add option="-O1" />
+					<Add option="-O" />
+					<Add option="-Wextra" />
+					<Add option="-Wall" />
+					<Add option="-fexceptions" />
+					<Add option="-DWXUSINGDLL" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_MBCS" />
+					<Add option="-D_LIB" />
+					<Add option="-DWIN32" />
+					<Add option="-D__GNUWIN32__" />
+					<Add option="-D__WXMSW__" />
+					<Add option="-D_WINDOWS" />
+					<Add option="-D__WINDOWS__" />
+					<Add option="-D__WIN32__" />
+					<Add option="-DWINVER=0x0400" />
+					<Add option="-DSTRICT" />
+					<Add option="-DwxUSE_UNICODE" />
+					<Add option="-DUNICODE" />
+					<Add option="-D_UNICODE" />
+					<Add directory="C:\wxWidgets2.8\include" />
+					<Add directory="C:\wxWidgets2.8\include\Audiere" />
+					<Add directory="C:\wxWidgets2.8\include\webconnect" />
+					<Add directory="C:\CPP\STK 4.4.2\include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-enable-auto-import" />
+					<Add option="-mthreads" />
+					<Add option="-fvtable-gc" />
+					<Add option="-fvtable-thunks" />
+					<Add option="-DWX_WIDGETS" />
+					<Add option="-fms-extensions" />
+					<Add library="libwxmsw28u_richtext.a" />
+					<Add library="libwxmsw28u_xrc.a" />
+					<Add library="libwxmsw28u_aui.a" />
+					<Add library="libwxmsw28u_dbgrid.a" />
+					<Add library="libwxbase28u_odbc.a" />
+					<Add library="libwxmsw28u_media.a" />
+					<Add library="libwxbase28u_net.a" />
+					<Add library="libwxmsw28u_gl.a" />
+					<Add library="libwxmsw28u_qa.a" />
+					<Add library="libwxbase28u_xml.a" />
+					<Add library="libwxmsw28u_adv.a" />
+					<Add library="libwxmsw28u_html.a" />
+					<Add library="libwxmsw28u_core.a" />
+					<Add library="libwxbase28u.a" />
+					<Add library="libwxpng.a" />
+					<Add library="libwxjpeg.a" />
+					<Add library="libwxtiff.a" />
+					<Add library="libwxzlib.a" />
+					<Add library="libwxregexu.a" />
+					<Add library="libwxexpat.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\xul.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\xul.dll" />
+					<Add library="C:\wxWidgets2.8\lib\xr\xpcom.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\ssl3.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\sqlite3.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\softokn3.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\smime3.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\plds4.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\plc4.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\nssutil3.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\nssdbm3.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\nssckbi.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\nss3.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\nspr4.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\npnul32.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\mozctlx.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\mozctl.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\js3250.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\javaxpcomglue.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\IA2Marshal.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\freebl3.a" />
+					<Add library="C:\wxWidgets2.8\lib\xr\AccessibleMarshal.a" />
+					<Add library="C:\wxWidgets2.8\lib\Audiere\audiere.lib" />
+					<Add library="C:\wxWidgets2.8\lib\Audiere\audiere.a" />
+					<Add directory="C:\wxWidgets2.8\lib\gcc_dll\mswu" />
+					<Add directory="C:\wxWidgets2.8\lib\gcc_dll" />
+					<Add directory="C:\wxWidgets2.8\lib\xr" />
+					<Add directory="C:\wxWidgets2.8\lib\Audiere" />
+					<Add directory="C:\CPP\STK 4.4.2\src" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-fexpensive-optimizations" />
+			<Add option="-Os" />
+			<Add option="-O3" />
+			<Add option="-O2" />
+			<Add option="-O1" />
+			<Add option="-O" />
+			<Add option="-Wall" />
+			<Add option="-pipe" />
+			<Add option="-mthreads" />
+			<Add option='[[if (PLATFORM == PLATFORM_MSW &amp;&amp; (GetCompilerFactory().GetCompilerVersionString(_T(&quot;gcc&quot;)) &gt;= _T(&quot;4.0.0&quot;))) print(_T(&quot;-Wno-attributes&quot;));]]' />
+			<Add option="-D__GNUWIN32__" />
+			<Add option="-D__WXMSW__" />
+			<Add option="-DWXUSINGDLL" />
+			<Add option="-DwxUSE_UNICODE" />
+			<Add directory="C:\wxWidgets2.8\include" />
+			<Add directory="C:\wxWidgets2.8\contrib\include" />
+		</Compiler>
+		<ResourceCompiler>
+			<Add directory="C:\wxWidgets2.8\include" />
+		</ResourceCompiler>
+		<Linker>
+			<Add option="-enable-auto-import" />
+			<Add option="-mthreads" />
+			<Add library="libwxmsw28u_richtext.a" />
+			<Add library="libwxmsw28u_xrc.a" />
+			<Add library="libwxmsw28u_aui.a" />
+			<Add library="libwxmsw28u_dbgrid.a" />
+			<Add library="libwxbase28u_odbc.a" />
+			<Add library="libwxmsw28u_media.a" />
+			<Add library="libwxbase28u_net.a" />
+			<Add library="libwxmsw28u_gl.a" />
+			<Add library="libwxmsw28u_qa.a" />
+			<Add library="libwxbase28u_xml.a" />
+			<Add library="libwxmsw28u_adv.a" />
+			<Add library="libwxmsw28u_html.a" />
+			<Add library="libwxmsw28u_core.a" />
+			<Add library="libwxbase28u.a" />
+			<Add library="libwxpng.a" />
+			<Add library="libwxjpeg.a" />
+			<Add library="libwxtiff.a" />
+			<Add library="libwxzlib.a" />
+			<Add library="libwxregexu.a" />
+			<Add library="libwxexpat.a" />
+		</Linker>
+		<Unit filename="AboutDialog.cpp" />
+		<Unit filename="AboutDialog.h" />
+		<Unit filename="CBwxHtml5App.cpp" />
+		<Unit filename="CBwxHtml5App.h" />
+		<Unit filename="CBwxHtml5Main.cpp" />
+		<Unit filename="CBwxHtml5Main.h" />
+		<Unit filename="GUIFrame.cpp" />
+		<Unit filename="GUIFrame.h" />
+		<Unit filename="ID_Names.h" />
+		<Unit filename="MenuBar.cpp" />
+		<Unit filename="MenuBar.h" />
+		<Unit filename="NBPage_Conf_ToneGen.cpp" />
+		<Unit filename="NBPage_Conf_ToneGen.h" />
+		<Unit filename="NBPage_HTML_Game.cpp" />
+		<Unit filename="NBPage_HTML_Game.h" />
+		<Unit filename="NBPage_HTML_Page.cpp" />
+		<Unit filename="NBPage_HTML_Page.h" />
+		<Unit filename="NBPage_Sound_ToneGen.cpp" />
+		<Unit filename="NBPage_Sound_ToneGen.h" />
+		<Unit filename="NBPage_Sound_Wave.cpp" />
+		<Unit filename="NBPage_Sound_Wave.h" />
+		<Unit filename="NBPage_Welcome.cpp" />
+		<Unit filename="NBPage_Welcome.h" />
+		<Unit filename="NoteBook.cpp" />
+		<Unit filename="NoteBook.h" />
+		<Unit filename="TreeControl.cpp" />
+		<Unit filename="TreeControl.h" />
+		<Unit filename="WxWizFrame.fbp" />
+		<Unit filename="resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
