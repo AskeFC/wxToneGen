@@ -28,6 +28,6 @@ C++ Tone generator using [Audiere](http://audiere.sourceforge.net/) API (windows
 
 > **License**
 
-> © Copyright 2014 Aske Færch Christensen (AskeFC.net). Released under the [GPL 2.0 License](https://www.gnu.org/licenses/gpl-2.0.html). wxWidgets is Copyright fo Julian Smart, Robert Roebling et al
+> © Copyright 2014 Aske Færch Christensen (AskeFC.net). Released under the [GPL 2.0 License](https://www.gnu.org/licenses/gpl-2.0.html). wxWidgets is Copyright of Julian Smart, Robert Roebling et al
  and released under [wxWindows Library Licence](https://www.wxwidgets.org/about/licence). Audiere is released under the [LGPL License](http://opensource.org/licenses/lgpl-license.html).
 
